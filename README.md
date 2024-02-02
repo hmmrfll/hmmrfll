@@ -14,7 +14,7 @@
 I am a java backend developer. I love programming, reading and speaking.
 
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="338" height="248" />
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="318" height="228" />
 
 
 ### Talking about Personal Stuffs:
