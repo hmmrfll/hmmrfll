@@ -58,18 +58,3 @@ I am a java backend developer. I love programming, reading and speaking.
 
 ---
 
-## 📊 Stats
-
-[![wakatime](https://wakatime.com/badge/user/018d676d-7e31-4e40-933e-1592975fd249.svg)](https://wakatime.com/@018d676d-7e31-4e40-933e-1592975fd249) <b>&nbsp;coded, since DEC 21 2023</b>
-
-📊 <b>This Week I Spent My Time On</b>
-
-<!--START_SECTION:waka-->
-```text
-Markdown     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
-Java         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
-<!--END_SECTION:waka-->
