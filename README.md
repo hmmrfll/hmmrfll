@@ -56,5 +56,3 @@ I am a java backend developer. I love programming, reading and speaking.
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
----
-
