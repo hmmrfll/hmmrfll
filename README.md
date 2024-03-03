@@ -20,11 +20,11 @@ I am a java backend developer. I love programming, reading and speaking.
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Java Backend Developer**
-- 🔭 I’m currently working on [Pastebin]() platform
+- 🔭 I’m currently working on [Pastebin](https://github.com/hmmrfll/pastebin.git) platform
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning Spring Framework
 - 📬 How to reach me: [a.kazakevych@gmail.com](mailto:a.kazakevych@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/18nRSdw64BRoNTQVHaR36i64OYOliLQIm/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/12MC3pUlnEhgnCxIznLxGKKt7CFkSKXsc/view?usp=sharing)
 - 👨‍💻 All of my projects are available at [Link](https://github.com/hmmrfll)
 
 
