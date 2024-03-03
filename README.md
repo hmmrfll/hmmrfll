@@ -45,7 +45,7 @@ I am a java backend developer. I love programming, reading and speaking.
 
 <p>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
