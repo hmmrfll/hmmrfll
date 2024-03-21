@@ -24,7 +24,7 @@ I am a java backend developer. I love programming, reading and speaking.
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning Spring Framework
 - 📬 How to reach me: [a.kazakevych@gmail.com](mailto:a.kazakevych@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/12MC3pUlnEhgnCxIznLxGKKt7CFkSKXsc/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1FahMGKGmT3Qlgdl65KgRZ8lk2m3MLAQA/view?usp=sharing)
 - 👨‍💻 All of my projects are available at [Link](https://github.com/hmmrfll)
 
 
