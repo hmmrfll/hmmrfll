@@ -9,7 +9,7 @@
 I am a developer.
 
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="318" height="228" />
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="318" height="195" />
 
 
 ### Talking about Personal Stuffs:
