@@ -1,17 +1,12 @@
 # Welcome to hmmrfll's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://linkedin.com/in/hmmrfll/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmmrfll" height="30" width="40" /></a>
+<a href="https://t.me/hmmrfll" target="_blank"><img align="center" src="https://github.com/hmmrfll/GitHub/blob/main/svg/telegram-svgrepo-com.svg" alt="hmmrfll" height="50" width="50" /></a>
 &nbsp;
-<a href="https://twitter.com/hmmrfllX" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmmrfllX" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/hmmrfll/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmmrfll" height="30" width="40" /></a>
-&nbsp;
-
 
 
 ## Glad to see you here!
 
-I am a java backend developer. I love programming, reading and speaking.
+I am a developer.
 
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="318" height="228" />
@@ -19,41 +14,9 @@ I am a java backend developer. I love programming, reading and speaking.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **Java Backend Developer**
-- 🔭 I’m currently working on [Pastebin](https://github.com/hmmrfll/pastebin.git) platform
-- 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning Spring Framework
-- 📬 How to reach me: [a.kazakevych@gmail.com](mailto:a.kazakevych@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1FahMGKGmT3Qlgdl65KgRZ8lk2m3MLAQA/view?usp=sharing)
-- 👨‍💻 All of my projects are available at [Link](https://github.com/hmmrfll)
-
-
----
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p><a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-</p>
+- 👨‍🎓 Started diving into development with **Java** + **Spring Framework**
+- 🔭 I mainly work with **Node.js** + **React**
+- 💬 Learning **GoLang** for more opportunities
+- 🌱 Currently working on the startup [Linki](https://vc.ru/life/1808693-gotovoe-reshenie-dlya-biznes-klubov-i-soobshestv-evolyuciya-chatov-v-telegram)
+- 📬 My telegram channel where I write about myself: [hmmrfll.dev](https://t.me/+OBU4Qyuv8QBhMzQ6)
 
