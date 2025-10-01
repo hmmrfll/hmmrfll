@@ -16,7 +16,5 @@ I am a developer.
 
 - 👨‍🎓 Started diving into development with **Java** + **Spring Framework**
 - 🔭 I mainly work with **Node.js** + **React**
-- 💬 Learning **GoLang** for more opportunities
-- 🌱 Currently working on the startup [Linki](https://vc.ru/life/1808693-gotovoe-reshenie-dlya-biznes-klubov-i-soobshestv-evolyuciya-chatov-v-telegram)
-- 📬 My telegram channel where I write about myself: [hmmrfll.dev](https://t.me/+OBU4Qyuv8QBhMzQ6)
+- 📬 My telegram channel where I write about myself: [vm4sto](https://t.me/vm4sto)
 
