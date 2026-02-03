@@ -21,33 +21,18 @@ I am a developer.
 </br>
 
 ## Skills
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastify" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-**Cloud & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,aws,digitalocean" />
-</p>
-
-**Other**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,spring,git,linux" />
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui" height="35" width="140" /></td>
+<td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" height="35" width="105" /></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b><br><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="35" width="105" /></td>
+<td align="center"><b>Cloud & DevOps</b><br><img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,aws" height="35" width="140" /></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><b>Other</b><br><img src="https://skillicons.dev/icons?i=ts,js,java,spring,git,linux" height="35" width="210" /></td>
+</tr>
+</table>
+</div>
